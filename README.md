@@ -3,4 +3,6 @@
 
 这个仓库里包含视频课程中的ppt以及对应神经网络的小型代码实现，<font color = "red">如果您觉得资源对您有一些帮助的话，请动动您发财的小手，给一些赞助吧！！</font>
 
-![本地路径](zhifubao.jpg ) <!-- 此路径表示图片和MD文件，处于同一目录 -->
+<div align=center>
+<img src=.//zhifubao.jpg width=50% />
+</div>
